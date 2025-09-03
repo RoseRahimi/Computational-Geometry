@@ -28,7 +28,7 @@ Delaunay Triangulation with circumcircles.
 ![Alt text](https://github.com/RoseRahimi/Computational-Geometry/blob/main/images/DtriCircles.png)
 
 Medial Axis Visualization – compute and display the medial axis of strictly convex polygons.
-![Alt text](https://github.com/RoseRahimi/Computational-Geometry/blob/main/images/DtriCircles.png)
+![Alt text](https://github.com/RoseRahimi/Computational-Geometry/blob/main/images/medialAxis.png)
 
 Interactive Widgets – change input points, toggle between triangulation methods, and adjust axes ranges in real-time.
 ![Interactive Widgets](https://github.com/RoseRahimi/Computational-Geometry/blob/main/images/interactivity.png)
