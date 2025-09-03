@@ -13,25 +13,25 @@ Center and radius ofthe circumcircle of the triangle
 ![Center and radius ofthe circumcircle of the triangle](https://github.com/RoseRahimi/Computational-Geometry/blob/main/triCircumcircle.png)
 
 Convex Hull Plot – compute and display convex hulls of a set of points.
-![Convex Hull Plot](https://github.com/RoseRahimi/Computational-Geometry/blob/main/convexHullPlot.png)
+![Convex Hull Plot](https://github.com/RoseRahimi/Computational-Geometry/blob/main/images/convexHullPlot.png)
 
 Convex Hull Triangulation – triangulate convex hull polygons.
-![Convex Hull Triangulation](https://github.com/RoseRahimi/Computational-Geometry/blob/main/convTri.png)
+![Convex Hull Triangulation](https://github.com/RoseRahimi/Computational-Geometry/blob/main/images/convTri.png)
 
 Triangle-Splitting Triangulation – recursively split triangles to incorporate interior points.
-![Triangle-Splitting Triangulation](https://github.com/RoseRahimi/Computational-Geometry/blob/main/triSplit.png)
+![Triangle-Splitting Triangulation](https://github.com/RoseRahimi/Computational-Geometry/blob/main/images/triSplit.png)
 
 Delaunay Triangulation – generate Delaunay triangles.
-![Delaunay Triangulation](https://github.com/RoseRahimi/Computational-Geometry/blob/main/DTri.png)
+![Delaunay Triangulation](https://github.com/RoseRahimi/Computational-Geometry/blob/main/images/DTri.png)
 
 Delaunay Triangulation with circumcircles.
-![Alt text](https://github.com/RoseRahimi/Computational-Geometry/blob/main/DtriCircles.png)
+![Alt text](https://github.com/RoseRahimi/Computational-Geometry/blob/main/images/DtriCircles.png)
 
 Medial Axis Visualization – compute and display the medial axis of strictly convex polygons.
-![Alt text](https://github.com/RoseRahimi/Computational-Geometry/blob/main/DtriCircles.png)
+![Alt text](https://github.com/RoseRahimi/Computational-Geometry/blob/main/images/DtriCircles.png)
 
 Interactive Widgets – change input points, toggle between triangulation methods, and adjust axes ranges in real-time.
-![Interactive Widgets](https://github.com/RoseRahimi/Computational-Geometry/blob/main/interactivity.png)
+![Interactive Widgets](https://github.com/RoseRahimi/Computational-Geometry/blob/main/images/interactivity.png)
 
 ## Requirements
 
