@@ -6,23 +6,32 @@ This project explores computational geometry through interactive visualizations 
 Sorted Points by Polar Angle and Distance
 ![Sorted Points by Polar Angle and Distance](https://github.com/RoseRahimi/Computational-Geometry/blob/main/sortPolarAng.png)
 
-Convex Hull Construction – compute and display convex hulls of a set of points.
-![Alt text](/Users/fatimarahimi/Desktop/Computational-Geometry/convexHullPlot.png)
+Is point in triangle 
+![Is point in triangle](https://github.com/RoseRahimi/Computational-Geometry/blob/main/pointTri.png)
+
+Center and radius ofthe circumcircle of the triangle
+![Center and radius ofthe circumcircle of the triangle](https://github.com/RoseRahimi/Computational-Geometry/blob/main/triCircumcircle.png)
+
+Convex Hull Plot – compute and display convex hulls of a set of points.
+![Convex Hull Plot](https://github.com/RoseRahimi/Computational-Geometry/blob/main/convexHullPlot.png)
 
 Convex Hull Triangulation – triangulate convex hull polygons.
-![Alt text](/Users/fatimarahimi/Desktop/Computational-Geometry/convTri.png)
+![Convex Hull Triangulation](https://github.com/RoseRahimi/Computational-Geometry/blob/main/convTri.png)
 
 Triangle-Splitting Triangulation – recursively split triangles to incorporate interior points.
-![Alt text](/Users/fatimarahimi/Desktop/Computational-Geometry/convTri.png)
+![Triangle-Splitting Triangulation](https://github.com/RoseRahimi/Computational-Geometry/blob/main/triSplit.png)
 
-Delaunay Triangulation – generate Delaunay triangles with optional circumcircles.
-![Alt text](/Users/fatimarahimi/Desktop/Computational-Geometry/convTri.png)
+Delaunay Triangulation – generate Delaunay triangles.
+![Delaunay Triangulation](https://github.com/RoseRahimi/Computational-Geometry/blob/main/DTri.png)
+
+Delaunay Triangulation with circumcircles.
+![Alt text](https://github.com/RoseRahimi/Computational-Geometry/blob/main/DtriCircles.png)
 
 Medial Axis Visualization – compute and display the medial axis of strictly convex polygons.
-![Alt text](/Users/fatimarahimi/Desktop/Computational-Geometry/convTri.png)
+![Alt text](https://github.com/RoseRahimi/Computational-Geometry/blob/main/DtriCircles.png)
 
 Interactive Widgets – change input points, toggle between triangulation methods, and adjust axes ranges in real-time.
-![Alt text](/Users/fatimarahimi/Desktop/Computational-Geometry/convTri.png)
+![Interactive Widgets](https://github.com/RoseRahimi/Computational-Geometry/blob/main/interactivity.png)
 
 ## Requirements
 
