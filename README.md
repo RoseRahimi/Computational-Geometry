@@ -4,13 +4,13 @@ This project explores computational geometry through interactive visualizations 
 
 ## Features
 Sorted Points by Polar Angle and Distance
-![Sorted Points by Polar Angle and Distance](https://github.com/RoseRahimi/Computational-Geometry/blob/main/sortPolarAng.png)
+![Sorted Points by Polar Angle and Distance](https://github.com/RoseRahimi/Computational-Geometry/blob/main/images/sortPolarAng.png)
 
 Is point in triangle 
-![Is point in triangle](https://github.com/RoseRahimi/Computational-Geometry/blob/main/pointTri.png)
+![Is point in triangle](https://github.com/RoseRahimi/Computational-Geometry/blob/main/images/pointTri.png)
 
 Center and radius ofthe circumcircle of the triangle
-![Center and radius ofthe circumcircle of the triangle](https://github.com/RoseRahimi/Computational-Geometry/blob/main/triCircumcircle.png)
+![Center and radius ofthe circumcircle of the triangle](https://github.com/RoseRahimi/Computational-Geometry/blob/main/images/triCircumcircle.png)
 
 Convex Hull Plot – compute and display convex hulls of a set of points.
 ![Convex Hull Plot](https://github.com/RoseRahimi/Computational-Geometry/blob/main/images/convexHullPlot.png)
