@@ -6,6 +6,11 @@ This project explores computational geometry through interactive visualizations 
 Sorted Points by Polar Angle and Distance
 ![Sorted Points by Polar Angle and Distance](https://github.com/RoseRahimi/Computational-Geometry/blob/main/sortPolarAng.png)
 
+Is point in triangle 
+
+Center and radius ofthe circumcircle of the triangle
+
+
 Convex Hull Construction – compute and display convex hulls of a set of points.
 ![Alt text](/Users/fatimarahimi/Desktop/Computational-Geometry/convexHullPlot.png)
 
